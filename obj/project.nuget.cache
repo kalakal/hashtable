@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxGJc+8LaJ4267Kk6Sy9KLMfKpmpMbnIZczEzyfLo7pE4UUuBlotg/nlCujooVc5uix5Zcn26A8LA8C/u34kYg==",
+  "success": true,
+  "projectFilePath": "E:\\bridgelab\\WordFrequency\\WordFrequency.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Faizan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

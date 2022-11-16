@@ -1,0 +1,14 @@
+E:\bridgelab\WordFrequency\bin\Debug\netcoreapp3.1\WordFrequency.exe
+E:\bridgelab\WordFrequency\bin\Debug\netcoreapp3.1\WordFrequency.deps.json
+E:\bridgelab\WordFrequency\bin\Debug\netcoreapp3.1\WordFrequency.runtimeconfig.json
+E:\bridgelab\WordFrequency\bin\Debug\netcoreapp3.1\WordFrequency.runtimeconfig.dev.json
+E:\bridgelab\WordFrequency\bin\Debug\netcoreapp3.1\WordFrequency.dll
+E:\bridgelab\WordFrequency\bin\Debug\netcoreapp3.1\WordFrequency.pdb
+E:\bridgelab\WordFrequency\obj\Debug\netcoreapp3.1\WordFrequency.csproj.AssemblyReference.cache
+E:\bridgelab\WordFrequency\obj\Debug\netcoreapp3.1\WordFrequency.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\WordFrequency\obj\Debug\netcoreapp3.1\WordFrequency.AssemblyInfoInputs.cache
+E:\bridgelab\WordFrequency\obj\Debug\netcoreapp3.1\WordFrequency.AssemblyInfo.cs
+E:\bridgelab\WordFrequency\obj\Debug\netcoreapp3.1\WordFrequency.csproj.CoreCompileInputs.cache
+E:\bridgelab\WordFrequency\obj\Debug\netcoreapp3.1\WordFrequency.dll
+E:\bridgelab\WordFrequency\obj\Debug\netcoreapp3.1\WordFrequency.pdb
+E:\bridgelab\WordFrequency\obj\Debug\netcoreapp3.1\WordFrequency.genruntimeconfig.cache
